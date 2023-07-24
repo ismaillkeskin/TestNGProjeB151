@@ -13,7 +13,7 @@ public class TC01_AramaKutusuTesti {
     @Test
     public void test01() {
         Driver.getDriver().get(ConfigReader.getProperty("amazonUrl"));
-
+         //Amazon sayafasına gidildi
 
     }
 }
